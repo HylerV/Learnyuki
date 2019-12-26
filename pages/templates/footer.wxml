@@ -1,0 +1,11 @@
+<template name="footer1">
+ 
+ This is the a part of foot1...
+
+ </template>
+
+ <template name="footer2">
+ 
+ This is the a part of foot2...
+
+ </template>
